@@ -5,4 +5,4 @@ Group formed. I joined the Jira team, and I was selected to be the scrum master,
 Week 2
 I held a group meeting and discussed about the detailed contents in proposal. I listed all the functionalities and other functional novelties with respect to existing related systems. But we still got several questions left, need to ask our mentor for help. We decided that our website was used for selling phones. I worked out the system prototype and I'm working on the backlog as well as sprints.
 Week 3
-I reallocated the work because one member dropped and held a group meeting again and made sure what structure we would use to do the front-end.
+I reallocated the work because one member dropped and held a group meeting again and made sure what structure we would use to do the front-end. I finish the background, functions and backlog, sprints of the proposal. 
